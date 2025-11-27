@@ -1,2 +1,2 @@
 # Resume-Analysis
-A short AI project using Pythin and Streamlit
+A short AI project using Python and Streamlit
